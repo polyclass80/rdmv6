@@ -1,0 +1,12 @@
+.leavetd {
+    height: 90px;
+    vertical-align: middle;
+    border: none;
+}
+
+.leavetd td{
+    width:150px;
+    text-align:left;
+    border: 1px solid #8AC007;
+}
+
